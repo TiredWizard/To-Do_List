@@ -1,0 +1,15 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def average_mark():
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9552
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9552">JetBrains
+    Academy</a></html>
+  time: Sun, 09 Aug 2020 10:12:23 UTC
+record: -1

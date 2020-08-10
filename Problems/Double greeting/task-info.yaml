@@ -1,0 +1,18 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # the following lines read names from the input, do not modify it, please
+    name_1 = input()
+    name_2 = input()
+
+    # your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10301
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10301">JetBrains
+    Academy</a></html>
+  time: Mon, 03 Aug 2020 10:47:05 UTC
+record: -1
