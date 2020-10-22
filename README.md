@@ -1,2 +1,2 @@
-# To-Do_List
-A Simple TO-Do List made with Python
+# ToDo List
+A Simple Todo list made with Python and a database
